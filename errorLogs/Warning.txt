@@ -1,0 +1,460 @@
+
+[Error_Handling] :: WARNING
+DeprecationWarning: MessageEmbed#addField is deprecated and will be removed in the next major update. Use MessageEmbed#addFields instead.
+7/1/2023, 9:21:20 pm
+------------------------------------------------------------------------
+
+[Error_Handling] :: WARNING
+DeprecationWarning: MessageEmbed#addField is deprecated and will be removed in the next major update. Use MessageEmbed#addFields instead.
+12/1/2023, 1:45:22 pm
+------------------------------------------------------------------------
+
+[Error_Handling] :: WARNING
+DeprecationWarning: MessageEmbed#addField is deprecated and will be removed in the next major update. Use MessageEmbed#addFields instead.
+12/1/2023, 1:52:26 pm
+------------------------------------------------------------------------
+
+[Error_Handling] :: WARNING
+DeprecationWarning: MessageEmbed#addField is deprecated and will be removed in the next major update. Use MessageEmbed#addFields instead.
+24/1/2023, 7:52:51 pm
+------------------------------------------------------------------------
+
+[Error_Handling] :: WARNING
+DeprecationWarning: MessageEmbed#addField is deprecated and will be removed in the next major update. Use MessageEmbed#addFields instead.
+24/1/2023, 7:55:19 pm
+------------------------------------------------------------------------
+
+[Error_Handling] :: WARNING
+DeprecationWarning: Passing GuildMember for DisTube#Song() is deprecated, read the docs for more.
+24/1/2023, 7:57:24 pm
+------------------------------------------------------------------------
+
+[Error_Handling] :: WARNING
+DeprecationWarning: MessageEmbed#addField is deprecated and will be removed in the next major update. Use MessageEmbed#addFields instead.
+24/1/2023, 7:57:24 pm
+------------------------------------------------------------------------
+
+[Error_Handling] :: WARNING
+DeprecationWarning: Passing GuildMember for DisTube#Song() is deprecated, read the docs for more.
+24/1/2023, 8:10:10 pm
+------------------------------------------------------------------------
+
+[Error_Handling] :: WARNING
+DeprecationWarning: Passing GuildMember for DisTube#Song() is deprecated, read the docs for more.
+24/1/2023, 8:10:10 pm
+------------------------------------------------------------------------
+
+[Error_Handling] :: WARNING
+DeprecationWarning: Passing GuildMember for DisTube#Song() is deprecated, read the docs for more.
+24/1/2023, 8:10:10 pm
+------------------------------------------------------------------------
+
+[Error_Handling] :: WARNING
+DeprecationWarning: Passing GuildMember for DisTube#Song() is deprecated, read the docs for more.
+24/1/2023, 8:10:10 pm
+------------------------------------------------------------------------
+
+[Error_Handling] :: WARNING
+DeprecationWarning: Passing GuildMember for DisTube#Song() is deprecated, read the docs for more.
+24/1/2023, 8:10:10 pm
+------------------------------------------------------------------------
+
+[Error_Handling] :: WARNING
+DeprecationWarning: Passing GuildMember for DisTube#Song() is deprecated, read the docs for more.
+24/1/2023, 8:10:10 pm
+------------------------------------------------------------------------
+
+[Error_Handling] :: WARNING
+DeprecationWarning: Passing GuildMember for DisTube#Song() is deprecated, read the docs for more.
+24/1/2023, 8:10:10 pm
+------------------------------------------------------------------------
+
+[Error_Handling] :: WARNING
+DeprecationWarning: Passing GuildMember for DisTube#Song() is deprecated, read the docs for more.
+24/1/2023, 8:10:10 pm
+------------------------------------------------------------------------
+
+[Error_Handling] :: WARNING
+DeprecationWarning: Passing GuildMember for DisTube#Song() is deprecated, read the docs for more.
+24/1/2023, 8:10:10 pm
+------------------------------------------------------------------------
+
+[Error_Handling] :: WARNING
+DeprecationWarning: Passing GuildMember for DisTube#Song() is deprecated, read the docs for more.
+24/1/2023, 8:10:10 pm
+------------------------------------------------------------------------
+
+[Error_Handling] :: WARNING
+DeprecationWarning: Passing GuildMember for DisTube#Song() is deprecated, read the docs for more.
+24/1/2023, 8:10:10 pm
+------------------------------------------------------------------------
+
+[Error_Handling] :: WARNING
+DeprecationWarning: Passing GuildMember for DisTube#Song() is deprecated, read the docs for more.
+24/1/2023, 8:10:10 pm
+------------------------------------------------------------------------
+
+[Error_Handling] :: WARNING
+DeprecationWarning: Passing GuildMember for DisTube#Song() is deprecated, read the docs for more.
+24/1/2023, 8:10:10 pm
+------------------------------------------------------------------------
+
+[Error_Handling] :: WARNING
+DeprecationWarning: MessageEmbed#addField is deprecated and will be removed in the next major update. Use MessageEmbed#addFields instead.
+24/1/2023, 8:10:10 pm
+------------------------------------------------------------------------
+
+[Error_Handling] :: WARNING
+DeprecationWarning: Passing GuildMember for DisTube#Song() is deprecated, read the docs for more.
+24/1/2023, 8:13:33 pm
+------------------------------------------------------------------------
+
+[Error_Handling] :: WARNING
+DeprecationWarning: Passing GuildMember for DisTube#Song() is deprecated, read the docs for more.
+24/1/2023, 8:13:33 pm
+------------------------------------------------------------------------
+
+[Error_Handling] :: WARNING
+DeprecationWarning: Passing GuildMember for DisTube#Song() is deprecated, read the docs for more.
+24/1/2023, 8:13:33 pm
+------------------------------------------------------------------------
+
+[Error_Handling] :: WARNING
+DeprecationWarning: Passing GuildMember for DisTube#Song() is deprecated, read the docs for more.
+24/1/2023, 8:13:33 pm
+------------------------------------------------------------------------
+
+[Error_Handling] :: WARNING
+DeprecationWarning: Passing GuildMember for DisTube#Song() is deprecated, read the docs for more.
+24/1/2023, 8:13:33 pm
+------------------------------------------------------------------------
+
+[Error_Handling] :: WARNING
+DeprecationWarning: Passing GuildMember for DisTube#Song() is deprecated, read the docs for more.
+24/1/2023, 8:13:33 pm
+------------------------------------------------------------------------
+
+[Error_Handling] :: WARNING
+DeprecationWarning: Passing GuildMember for DisTube#Song() is deprecated, read the docs for more.
+24/1/2023, 8:13:33 pm
+------------------------------------------------------------------------
+
+[Error_Handling] :: WARNING
+DeprecationWarning: Passing GuildMember for DisTube#Song() is deprecated, read the docs for more.
+24/1/2023, 8:13:33 pm
+------------------------------------------------------------------------
+
+[Error_Handling] :: WARNING
+DeprecationWarning: Passing GuildMember for DisTube#Song() is deprecated, read the docs for more.
+24/1/2023, 8:13:33 pm
+------------------------------------------------------------------------
+
+[Error_Handling] :: WARNING
+DeprecationWarning: Passing GuildMember for DisTube#Song() is deprecated, read the docs for more.
+24/1/2023, 8:13:33 pm
+------------------------------------------------------------------------
+
+[Error_Handling] :: WARNING
+DeprecationWarning: Passing GuildMember for DisTube#Song() is deprecated, read the docs for more.
+24/1/2023, 8:13:33 pm
+------------------------------------------------------------------------
+
+[Error_Handling] :: WARNING
+DeprecationWarning: Passing GuildMember for DisTube#Song() is deprecated, read the docs for more.
+24/1/2023, 8:13:33 pm
+------------------------------------------------------------------------
+
+[Error_Handling] :: WARNING
+DeprecationWarning: MessageEmbed#addField is deprecated and will be removed in the next major update. Use MessageEmbed#addFields instead.
+24/1/2023, 8:13:33 pm
+------------------------------------------------------------------------
+
+[Error_Handling] :: WARNING
+DeprecationWarning: Passing GuildMember for DisTube#Song() is deprecated, read the docs for more.
+24/1/2023, 8:14:27 pm
+------------------------------------------------------------------------
+
+[Error_Handling] :: WARNING
+DeprecationWarning: Passing GuildMember for DisTube#Song() is deprecated, read the docs for more.
+24/1/2023, 8:14:27 pm
+------------------------------------------------------------------------
+
+[Error_Handling] :: WARNING
+DeprecationWarning: Passing GuildMember for DisTube#Song() is deprecated, read the docs for more.
+24/1/2023, 8:14:27 pm
+------------------------------------------------------------------------
+
+[Error_Handling] :: WARNING
+DeprecationWarning: Passing GuildMember for DisTube#Song() is deprecated, read the docs for more.
+24/1/2023, 8:14:27 pm
+------------------------------------------------------------------------
+
+[Error_Handling] :: WARNING
+DeprecationWarning: Passing GuildMember for DisTube#Song() is deprecated, read the docs for more.
+24/1/2023, 8:14:27 pm
+------------------------------------------------------------------------
+
+[Error_Handling] :: WARNING
+DeprecationWarning: Passing GuildMember for DisTube#Song() is deprecated, read the docs for more.
+24/1/2023, 8:14:27 pm
+------------------------------------------------------------------------
+
+[Error_Handling] :: WARNING
+DeprecationWarning: Passing GuildMember for DisTube#Song() is deprecated, read the docs for more.
+24/1/2023, 8:14:27 pm
+------------------------------------------------------------------------
+
+[Error_Handling] :: WARNING
+DeprecationWarning: Passing GuildMember for DisTube#Song() is deprecated, read the docs for more.
+24/1/2023, 8:14:27 pm
+------------------------------------------------------------------------
+
+[Error_Handling] :: WARNING
+DeprecationWarning: Passing GuildMember for DisTube#Song() is deprecated, read the docs for more.
+24/1/2023, 8:14:27 pm
+------------------------------------------------------------------------
+
+[Error_Handling] :: WARNING
+DeprecationWarning: Passing GuildMember for DisTube#Song() is deprecated, read the docs for more.
+24/1/2023, 8:14:27 pm
+------------------------------------------------------------------------
+
+[Error_Handling] :: WARNING
+DeprecationWarning: Passing GuildMember for DisTube#Song() is deprecated, read the docs for more.
+24/1/2023, 8:14:27 pm
+------------------------------------------------------------------------
+
+[Error_Handling] :: WARNING
+DeprecationWarning: Passing GuildMember for DisTube#Song() is deprecated, read the docs for more.
+24/1/2023, 8:14:27 pm
+------------------------------------------------------------------------
+
+[Error_Handling] :: WARNING
+DeprecationWarning: MessageEmbed#addField is deprecated and will be removed in the next major update. Use MessageEmbed#addFields instead.
+24/1/2023, 8:14:27 pm
+------------------------------------------------------------------------
+
+[Error_Handling] :: WARNING
+DeprecationWarning: Passing GuildMember for DisTube#Song() is deprecated, read the docs for more.
+24/1/2023, 8:15:22 pm
+------------------------------------------------------------------------
+
+[Error_Handling] :: WARNING
+DeprecationWarning: Passing GuildMember for DisTube#Song() is deprecated, read the docs for more.
+24/1/2023, 8:15:22 pm
+------------------------------------------------------------------------
+
+[Error_Handling] :: WARNING
+DeprecationWarning: Passing GuildMember for DisTube#Song() is deprecated, read the docs for more.
+24/1/2023, 8:15:22 pm
+------------------------------------------------------------------------
+
+[Error_Handling] :: WARNING
+DeprecationWarning: Passing GuildMember for DisTube#Song() is deprecated, read the docs for more.
+24/1/2023, 8:15:22 pm
+------------------------------------------------------------------------
+
+[Error_Handling] :: WARNING
+DeprecationWarning: Passing GuildMember for DisTube#Song() is deprecated, read the docs for more.
+24/1/2023, 8:15:22 pm
+------------------------------------------------------------------------
+
+[Error_Handling] :: WARNING
+DeprecationWarning: Passing GuildMember for DisTube#Song() is deprecated, read the docs for more.
+24/1/2023, 8:15:22 pm
+------------------------------------------------------------------------
+
+[Error_Handling] :: WARNING
+DeprecationWarning: Passing GuildMember for DisTube#Song() is deprecated, read the docs for more.
+24/1/2023, 8:15:22 pm
+------------------------------------------------------------------------
+
+[Error_Handling] :: WARNING
+DeprecationWarning: Passing GuildMember for DisTube#Song() is deprecated, read the docs for more.
+24/1/2023, 8:15:22 pm
+------------------------------------------------------------------------
+
+[Error_Handling] :: WARNING
+DeprecationWarning: Passing GuildMember for DisTube#Song() is deprecated, read the docs for more.
+24/1/2023, 8:15:22 pm
+------------------------------------------------------------------------
+
+[Error_Handling] :: WARNING
+DeprecationWarning: Passing GuildMember for DisTube#Song() is deprecated, read the docs for more.
+24/1/2023, 8:15:22 pm
+------------------------------------------------------------------------
+
+[Error_Handling] :: WARNING
+DeprecationWarning: Passing GuildMember for DisTube#Song() is deprecated, read the docs for more.
+24/1/2023, 8:15:22 pm
+------------------------------------------------------------------------
+
+[Error_Handling] :: WARNING
+DeprecationWarning: Passing GuildMember for DisTube#Song() is deprecated, read the docs for more.
+24/1/2023, 8:15:22 pm
+------------------------------------------------------------------------
+
+[Error_Handling] :: WARNING
+DeprecationWarning: MessageEmbed#addField is deprecated and will be removed in the next major update. Use MessageEmbed#addFields instead.
+24/1/2023, 8:15:22 pm
+------------------------------------------------------------------------
+
+[Error_Handling] :: WARNING
+DeprecationWarning: Passing GuildMember for DisTube#Song() is deprecated, read the docs for more.
+24/1/2023, 8:18:03 pm
+------------------------------------------------------------------------
+
+[Error_Handling] :: WARNING
+DeprecationWarning: Passing GuildMember for DisTube#Song() is deprecated, read the docs for more.
+24/1/2023, 8:18:03 pm
+------------------------------------------------------------------------
+
+[Error_Handling] :: WARNING
+DeprecationWarning: Passing GuildMember for DisTube#Song() is deprecated, read the docs for more.
+24/1/2023, 8:18:03 pm
+------------------------------------------------------------------------
+
+[Error_Handling] :: WARNING
+DeprecationWarning: Passing GuildMember for DisTube#Song() is deprecated, read the docs for more.
+24/1/2023, 8:18:03 pm
+------------------------------------------------------------------------
+
+[Error_Handling] :: WARNING
+DeprecationWarning: Passing GuildMember for DisTube#Song() is deprecated, read the docs for more.
+24/1/2023, 8:18:03 pm
+------------------------------------------------------------------------
+
+[Error_Handling] :: WARNING
+DeprecationWarning: Passing GuildMember for DisTube#Song() is deprecated, read the docs for more.
+24/1/2023, 8:18:03 pm
+------------------------------------------------------------------------
+
+[Error_Handling] :: WARNING
+DeprecationWarning: Passing GuildMember for DisTube#Song() is deprecated, read the docs for more.
+24/1/2023, 8:18:03 pm
+------------------------------------------------------------------------
+
+[Error_Handling] :: WARNING
+DeprecationWarning: Passing GuildMember for DisTube#Song() is deprecated, read the docs for more.
+24/1/2023, 8:18:03 pm
+------------------------------------------------------------------------
+
+[Error_Handling] :: WARNING
+DeprecationWarning: Passing GuildMember for DisTube#Song() is deprecated, read the docs for more.
+24/1/2023, 8:18:03 pm
+------------------------------------------------------------------------
+
+[Error_Handling] :: WARNING
+DeprecationWarning: Passing GuildMember for DisTube#Song() is deprecated, read the docs for more.
+24/1/2023, 8:18:03 pm
+------------------------------------------------------------------------
+
+[Error_Handling] :: WARNING
+DeprecationWarning: Passing GuildMember for DisTube#Song() is deprecated, read the docs for more.
+24/1/2023, 8:18:03 pm
+------------------------------------------------------------------------
+
+[Error_Handling] :: WARNING
+DeprecationWarning: MessageEmbed#addField is deprecated and will be removed in the next major update. Use MessageEmbed#addFields instead.
+24/1/2023, 8:18:03 pm
+------------------------------------------------------------------------
+
+[Error_Handling] :: WARNING
+DeprecationWarning: MessageEmbed#addField is deprecated and will be removed in the next major update. Use MessageEmbed#addFields instead.
+25/1/2023, 7:09:51 am
+------------------------------------------------------------------------
+
+[Error_Handling] :: WARNING
+DeprecationWarning: MessageEmbed#addField is deprecated and will be removed in the next major update. Use MessageEmbed#addFields instead.
+26/1/2023, 7:29:29 am
+------------------------------------------------------------------------
+
+[Error_Handling] :: WARNING
+DeprecationWarning: Passing strings for MessageEmbed#setFooter is deprecated. Pass a sole object instead.
+16/2/2023, 7:54:52 pm
+------------------------------------------------------------------------
+
+[Error_Handling] :: WARNING
+DeprecationWarning: Passing strings for MessageEmbed#setFooter is deprecated. Pass a sole object instead.
+29/9/2023, 9:39:37 pm
+------------------------------------------------------------------------
+
+[Error_Handling] :: WARNING
+DeprecationWarning: MessageEmbed#addField is deprecated and will be removed in the next major update. Use MessageEmbed#addFields instead.
+29/9/2023, 9:39:37 pm
+------------------------------------------------------------------------
+
+[Error_Handling] :: WARNING
+DeprecationWarning: Guild#me is deprecated. Use Guild#members#me instead.
+29/9/2023, 9:41:41 pm
+------------------------------------------------------------------------
+
+[Error_Handling] :: WARNING
+DeprecationWarning: Passing strings for MessageEmbed#setFooter is deprecated. Pass a sole object instead.
+29/9/2023, 9:41:41 pm
+------------------------------------------------------------------------
+
+[Error_Handling] :: WARNING
+DeprecationWarning: MessageEmbed#addField is deprecated and will be removed in the next major update. Use MessageEmbed#addFields instead.
+29/9/2023, 9:41:41 pm
+------------------------------------------------------------------------
+
+[Error_Handling] :: WARNING
+DeprecationWarning: Guild#me is deprecated. Use Guild#members#me instead.
+29/9/2023, 9:45:10 pm
+------------------------------------------------------------------------
+
+[Error_Handling] :: WARNING
+DeprecationWarning: Guild#me is deprecated. Use Guild#members#me instead.
+29/9/2023, 9:49:10 pm
+------------------------------------------------------------------------
+
+[Error_Handling] :: WARNING
+DeprecationWarning: MessageEmbed#addField is deprecated and will be removed in the next major update. Use MessageEmbed#addFields instead.
+29/9/2023, 9:49:10 pm
+------------------------------------------------------------------------
+
+[Error_Handling] :: WARNING
+DeprecationWarning: Guild#me is deprecated. Use Guild#members#me instead.
+11/2/2024, 4:12:38 pm
+------------------------------------------------------------------------
+
+[Error_Handling] :: WARNING
+DeprecationWarning: Passing strings for MessageEmbed#setFooter is deprecated. Pass a sole object instead.
+11/2/2024, 4:12:38 pm
+------------------------------------------------------------------------
+
+[Error_Handling] :: WARNING
+DeprecationWarning: MessageEmbed#addField is deprecated and will be removed in the next major update. Use MessageEmbed#addFields instead.
+11/2/2024, 4:12:38 pm
+------------------------------------------------------------------------
+
+[Error_Handling] :: WARNING
+DeprecationWarning: Guild#me is deprecated. Use Guild#members#me instead.
+11/2/2024, 5:06:12 pm
+------------------------------------------------------------------------
+
+[Error_Handling] :: WARNING
+DeprecationWarning: Passing strings for MessageEmbed#setFooter is deprecated. Pass a sole object instead.
+11/2/2024, 5:06:12 pm
+------------------------------------------------------------------------
+
+[Error_Handling] :: WARNING
+DeprecationWarning: MessageEmbed#addField is deprecated and will be removed in the next major update. Use MessageEmbed#addFields instead.
+11/2/2024, 5:06:12 pm
+------------------------------------------------------------------------
+
+[Error_Handling] :: WARNING
+DeprecationWarning: Guild#me is deprecated. Use Guild#members#me instead.
+11/2/2024, 5:28:01 pm
+------------------------------------------------------------------------
+
+[Error_Handling] :: WARNING
+DeprecationWarning: Passing strings for MessageEmbed#setFooter is deprecated. Pass a sole object instead.
+11/2/2024, 5:28:01 pm
+------------------------------------------------------------------------
+
+[Error_Handling] :: WARNING
+DeprecationWarning: MessageEmbed#addField is deprecated and will be removed in the next major update. Use MessageEmbed#addFields instead.
+11/2/2024, 5:28:01 pm
+------------------------------------------------------------------------

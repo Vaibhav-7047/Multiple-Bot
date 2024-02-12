@@ -1,0 +1,12 @@
+
+[Error_Handling] :: Uncaught Exception/Catch
+TypeError: Cannot read properties of undefined (reading 'delete')
+uncaughtException
+26/1/2023, 12:31:33 pm
+------------------------------------------------------------------------
+
+[Error_Handling] :: Uncaught Exception/Catch
+TypeError: channel.isText is not a function
+uncaughtException
+29/9/2023, 9:39:37 pm
+------------------------------------------------------------------------
